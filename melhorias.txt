@@ -3,7 +3,7 @@ Melhorias a serem implementadas no código
 Adicionar agendamento de atualizações diárias (Todos os dias às 22h, preferencialmente totalmente automatizado e assíncrono)
 Melhorar a atualização manual (Fazer com que na atualização manual, o sistema carregue apenas as linhas novas entre a última atualização e o horário atual para otimizar o processo de atualização)
 Tela de Login para proteger os dados 
-Após a atualização tanto manual, o streamlit dá um refresh na página após a conclusão 
+Após a atualização tanto manual, o streamlit dá um refresh automático na página após a conclusão do processo de atualização.
 Adicionar mais opções de indicadores aos gráficos pré-existentes
 Adicionar detalhamento dinâmico (permitir clicar em um gráfico ou indicador e detalhar)
 Alertas e notificações (Avisar quando um indicador passar de um limite X; notificar por email para um usuário x; enviar rotineiramente e-mails com um compilado das informações do ultimo dia ou semana)
